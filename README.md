@@ -6,7 +6,7 @@ Every project needs a shelf of ready answers. product and engineering is one of 
 
 ## Images
 
-[![jsoncrack.com](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![jsoncrack.com](images/preview.png)](https://github.com/Swift-Tech-Co/jsoncrack.com)
 
 ## About the Project
 
@@ -27,11 +27,11 @@ JSON Crack is a tool for visualizing JSON data in a structured, interactive grap
 
 ## Recognition
 
-<a href="https://www.swifttechco.com">
+<a href="https://github.com/Swift-Tech-Co/jsoncrack.com">
   
 </a>
 
-<a href="https://www.swifttechco.com" target="_blank"></a>
+<a href="https://github.com/Swift-Tech-Co/jsoncrack.com" target="_blank"></a>
 
 ## Integrations
 
@@ -44,12 +44,11 @@ JSON Crack is a tool for visualizing JSON data in a structured, interactive grap
 - Found a bug or missing feature? Open an issue on GitHub Issues.
 - Want to contribute code or docs? Start with our [contribution guide](./CONTRIBUTING.md).
 
-
 ## Stay Up-to-Date
 
 JSON Crack officially launched as v1.0 on the 17th of February 2022 and we've come a long way so far. Watch **releases** of this repository to be notified of future updates:
 
-<a href="https://www.swifttechco.com"></a>
+<a href="https://github.com/Swift-Tech-Co/jsoncrack.com"></a>
 
 <!-- GETTING STARTED -->
 
@@ -64,15 +63,14 @@ Here is what you need to be able to run JSON Crack.
 - Node.js (Version: >=24.x)
 - pnpm (Version: >=10)
 
-
 ## Development
 
 ### Setup
 
-1. Clone the repo into a public GitHub repository (or fork https://www.swifttechco.com). If you plan to distribute the code, read the [`LICENSE`](/LICENSE.md) for additional details.
+1. Clone the repo into a public GitHub repository (or fork https://github.com/Swift-Tech-Co/jsoncrack.com). If you plan to distribute the code, read the [`LICENSE`](/LICENSE.md) for additional details.
 
    ```sh
-   git clone https://www.swifttechco.com
+   git clone https://github.com/Swift-Tech-Co/jsoncrack.com
    ```
 
 2. Go to the project folder
@@ -92,7 +90,7 @@ Here is what you need to be able to run JSON Crack.
    ```sh
    pnpm dev:www
 
-   # Running on https://www.swifttechco.com
+   # Running on https://github.com/Swift-Tech-Co/jsoncrack.com
    ```
 
 ### Useful Commands
@@ -100,8 +98,6 @@ Here is what you need to be able to run JSON Crack.
 From repository root:
 
 ```sh
-
-
 
 ## Configuration
 
@@ -127,13 +123,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/jsoncrack.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
