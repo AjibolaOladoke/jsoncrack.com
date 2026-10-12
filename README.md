@@ -1,32 +1,12 @@
-<!-- PROJECT LOGO -->
-<p align="center">
-  <a href="https://www.swifttechco.com">
-   <img src="./apps/www/public/assets/192.png" height="50" alt="Logo">
-  </a>
+# jsoncrack.com
 
-  <h1 align="center">JSON Crack</h1>
+## What This Is
 
-  <p align="center">
-    The open-source JSON Editor.
-    <br />
-    <a href="https://www.swifttechco.com"><strong>Learn more »</strong></a>
-    <br />
-    <br />
-    <a href="https://www.swifttechco.com">ToDiagram</a>
-    ·
-    <a href="https://t.me/+Qt_eFvkb2rliMzNh">Telegram</a>
-    ·
-    <a href="https://www.swifttechco.com">Website</a>
-    ·
-    <a href="https://www.swifttechco.com">Issues</a>
-    ·
-    <a href="https://www.swifttechco.com">VS Code</a>
-    ·
-    <a href="https://www.swifttechco.com">Chrome</a>
-  </p>
-</p>
+Every project needs a shelf of ready answers. product and engineering is one of those shelves, and jsoncrack.com is the entry on it - the notes, patterns and fixes we reuse when this kind of work comes up.
 
-<!-- ABOUT THE PROJECT -->
+## Images
+
+[![jsoncrack.com](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## About the Project
 
@@ -55,13 +35,13 @@ JSON Crack is a tool for visualizing JSON data in a structured, interactive grap
 
 ## Integrations
 
-- [VS Code Extension](https://www.swifttechco.com)
-- [Chrome Extension](https://www.swifttechco.com)
-- [npm Package (`jsoncrack-react`)](https://www.swifttechco.com)
+- VS Code Extension
+- Chrome Extension
+- npm Package (`jsoncrack-react`)
 
 ## Contributing
 
-- Found a bug or missing feature? Open an issue on [GitHub Issues](https://www.swifttechco.com).
+- Found a bug or missing feature? Open an issue on GitHub Issues.
 - Want to contribute code or docs? Start with our [contribution guide](./CONTRIBUTING.md).
 
 
@@ -120,56 +100,8 @@ Here is what you need to be able to run JSON Crack.
 From repository root:
 
 ```sh
-# Web app
 
-## Images
 
-[![jsoncrack.com](https://opengraph.githubassets.com/1/AykutSarac/jsoncrack.com)](https://www.swifttechco.com)
-
-pnpm dev:www
-pnpm build:www
-
-# VS Code extension
-pnpm dev:vscode
-pnpm build:vscode
-pnpm lint:vscode
-pnpm lint:fix:vscode
-
-# Chrome extension
-pnpm dev:chrome
-pnpm build:chrome
-pnpm lint:chrome
-
-# All workspaces
-pnpm dev
-pnpm build
-pnpm lint
-```
-
-### Debug VS Code Extension
-
-1. Open repository root in VS Code.
-2. Press `F5`.
-3. Select `Run VSCode Extension (apps/vscode)` when prompted.
-4. In the Extension Development Host window, open a `.json` file and run:
-   `JSON Crack: Enable JSON Crack visualization`.
-
-### Docker
-
-🐳 Docker assets are in `apps/www`.
-If you want to run JSON Crack locally:
-
-```console
-cd apps/www
-
-# Build a Docker image with:
-docker compose build
-
-# Run locally with docker compose
-docker compose up
-
-# Go to https://www.swifttechco.com
-```
 
 ## Configuration
 
@@ -191,14 +123,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
